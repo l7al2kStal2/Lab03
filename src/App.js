@@ -7,7 +7,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        Hello World
+        <CharacterCard value="H"/>
+        <CharacterCard value="i"/>       
       </div>
     );
   }
